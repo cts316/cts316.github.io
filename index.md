@@ -1,4 +1,6 @@
 ## Welcome to cts316's Homepage!
+### _Making some EDITS._
+
 
 You can use the [editor on GitHub](https://github.com/cts316/cts316.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
